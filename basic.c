@@ -1,3 +1,4 @@
+/*** LICENSE BEGIN */
 /* BinReloc - a library for creating relocatable executables
  * Written by: Hongli Lai <h.lai@chello.nl>
  *
@@ -6,7 +7,8 @@
  * and/or modify it under the terms of the Do What The Fuck You Want
  * To Public License, Version 2, as published by Sam Hocevar. See
  * http://sam.zoy.org/wtfpl/COPYING for more details.
-*/
+ */
+/*** LICENSE END */
 
 /* This file contains the basic BinReloc code. It is used to
  * generate more appropriate BinReloc source code, one which fits
